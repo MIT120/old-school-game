@@ -142,7 +142,10 @@ namespace old_school_game
             } while (input1.Key != ConsoleKey.Escape) ;
 
 
-
+            Console.WriteLine("");
+            Console.WriteLine("");
+            Console.WriteLine("asdasdsadsadsad");
+            
 
         }
     }
